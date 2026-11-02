@@ -1,0 +1,24 @@
+$ python3 flash_sale_race.py
+Pembeli 1 BERHASIL membeli. Sisa stok: 9
+Pembeli 4 BERHASIL membeli. Sisa stok: 8
+Pembeli 2 BERHASIL membeli. Sisa stok: 9
+Pembeli 5 BERHASIL membeli. Sisa stok: 8
+Pembeli 3 BERHASIL membeli. Sisa stok: 9
+Pembeli 8 BERHASIL membeli. Sisa stok: 8
+Pembeli 6 BERHASIL membeli. Sisa stok: 7
+Pembeli 7 BERHASIL membeli. Sisa stok: 8
+Pembeli 9 BERHASIL membeli. Sisa stok: 8
+Pembeli 10 BERHASIL membeli. Sisa stok: 6
+Pembeli 11 BERHASIL membeli. Sisa stok: 7
+Pembeli 12 BERHASIL membeli. Sisa stok: 7
+Pembeli 13 BERHASIL membeli. Sisa stok: 6
+Pembeli 14 BERHASIL membeli. Sisa stok: 6
+Pembeli 15 BERHASIL membeli. Sisa stok: 6
+Pembeli 16 BERHASIL membeli. Sisa stok: 6
+Pembeli 17 BERHASIL membeli. Sisa stok: 5
+Pembeli 18 BERHASIL membeli. Sisa stok: 5
+Pembeli 19 BERHASIL membeli. Sisa stok: 5
+Pembeli 20 BERHASIL membeli. Sisa stok: 5
+
+--- HASIL TANPA SINKRONISASI ---
+Total barang terjual: 20, Sisa stok akhir: 5
